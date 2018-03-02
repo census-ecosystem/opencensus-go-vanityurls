@@ -1,5 +1,7 @@
 host: go.opencensus.io
 
 paths:
+  /exporter/aws:
+    repo: https://github.com/census-instrumentation/opencensus-go-exporter-aws
   /:
     repo: https://github.com/census-instrumentation/opencensus-go
