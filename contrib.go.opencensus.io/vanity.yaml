@@ -1,0 +1,5 @@
+host: contrib.go.opencensus.io
+
+paths:
+  /exporter/stackdriver:
+    repo: https://github.com/census-ecosystem/opencensus-go-exporter-stackdriver

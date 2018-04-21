@@ -1,0 +1,5 @@
+host: go.opencensus.io
+
+paths:
+  /:
+    repo: https://github.com/census-instrumentation/opencensus-go
