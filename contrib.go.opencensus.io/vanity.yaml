@@ -5,3 +5,6 @@ paths:
     repo: https://github.com/census-ecosystem/opencensus-go-exporter-stackdriver
   /exporter/aws:
     repo: https://github.com/census-ecosystem/opencensus-go-exporter-aws
+  /exporter/graphite:
+    repo: https://github.com/census-ecosystem/opencensus-go-exporter-graphite
+
