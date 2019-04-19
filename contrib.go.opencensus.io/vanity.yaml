@@ -3,6 +3,12 @@ host: contrib.go.opencensus.io
 paths:
   /exporter/stackdriver:
     repo: https://github.com/census-ecosystem/opencensus-go-exporter-stackdriver
+  /exporter/prometheus:
+    repo: https://github.com/census-ecosystem/opencensus-go-exporter-prometheus
+  /exporter/jaeger:
+    repo: https://github.com/census-ecosystem/opencensus-go-exporter-jaeger
+  /exporter/zipkin:
+    repo: https://github.com/census-ecosystem/opencensus-go-exporter-zipkin
   /exporter/aws:
     repo: https://github.com/census-ecosystem/opencensus-go-exporter-aws
   /exporter/graphite:
