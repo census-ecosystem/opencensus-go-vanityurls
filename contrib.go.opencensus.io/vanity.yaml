@@ -19,4 +19,6 @@ paths:
     repo: https://github.com/census-ecosystem/opencensus-go-resource
   /integrations/ocsql:
     repo: https://github.com/opencensus-integrations/ocsql
+  /integrations/redigo:
+    repo: https://github.com/opencensus-integrations/redigo
 
